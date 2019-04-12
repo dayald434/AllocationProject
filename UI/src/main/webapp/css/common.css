@@ -1,0 +1,90 @@
+.header1 {
+    color: darkslategrey;
+    font-size: large;
+    font-family: 'Times New Roman';
+
+}
+
+.header2 {
+    color: darkslategrey;
+    font-size: small;
+    font-family: 'Times New Roman';
+
+}
+
+.headerLarge {
+    color: darkslategrey;
+    font-size: xx-large;
+    font-family: 'Times New Roman';
+
+}
+
+.form1 {
+    width: 90%;
+    margin-top: 2%;
+    border-color: lightgrey;
+    border-style: outset
+}
+.formSmall {
+    width: 40%;
+    margin-top: 2%;
+    border-color: lightgrey;
+    border-style: outset
+}
+
+.table1 {
+    margin-top: 2%;
+    border: none;
+}
+
+.table2 {
+    margin-top: 2%;
+    border: groove;
+}
+
+.submit1 {
+    margin-bottom: 1%;
+    border: groove;
+}
+
+.txt1 {
+    width: 200px;
+    height: 20px;
+}
+
+.txt2 {
+    height: 12px;
+    font-size: x-small;
+}
+   .txt13 {
+            width: 97%;
+height: 60%;
+        }
+           .txt12 {
+            width: 98%;
+height: 60%;
+        }
+         
+         .txt11 {
+            width: 97%;
+height: 60%;
+display: inline-block;
+
+        }
+
+        .blank_row {
+            height: 25px
+        }
+.form11 {
+    width: 82%;
+    margin-top: 2%;
+    border-color: lightgrey;
+    border-style: outset;
+    
+    
+}
+.cl1{
+width: 97%;
+height: 25px;
+margin-top: 0%;
+}

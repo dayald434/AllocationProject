@@ -1,0 +1,90 @@
+.main_menu
+{
+    height: 58px;
+    line-height: 56px;
+    color: red;
+    position: relative;
+    font-family: "Trebuchet MS", "Trebuchet MS";
+    font-size: 22px;
+}
+.menu
+{
+    height: 795px;
+    position: relative;
+    line-height: 96px;
+    font-family: "Trebuchet MS", "Trebuchet MS";
+    font-size: 22px;
+
+}
+.main_menu ul
+{
+    padding:0px;
+    margin:0;
+    list-style:none;
+}
+.main_menu ul li
+{
+    padding:0;
+    margin:0;
+    border-right:0px solid black;
+    float:left;
+    background:gray;
+}
+.main_menu ul li a
+{
+    color:white;
+    display:block;
+    text-decoration:none;
+    padding:0 25px;
+}
+.main_menu ul li a:hover
+{
+    background: gray;
+    color:#000;
+}
+.main_menu ul li ul
+{
+     display: none;
+     width: auto;
+     position:absolute;
+     top:30px;
+     padding:0px;
+     margin:0px;
+}
+.main_menu ul li:hover ul
+{
+     display: block;
+     position: absolute;
+     margin: 0;
+     padding: 0;
+}
+.main_menu ul li:hover li
+{
+     float: none;
+     list-style:none;
+    margin:0px;
+}
+.main_menu ul li:hover li
+{
+    background:black;
+    border-top:1px solid black;
+}
+.main_menu ul li:hover li a
+{
+    color: #fff;
+    padding:0 20px;
+    display:block;
+    width:170px;
+}
+.main_menu ul li li a:hover
+{
+     color:#000;
+}
+.logo-white {
+    width: 249px;
+    padding-top: 2px;
+    height: 53px;
+}
+
+
+
