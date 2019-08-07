@@ -90,7 +90,7 @@
     <a href="Home.jsp">Home</a>
 
     <div class="dropdown">
-        <button class="dropbtn">Satsang Ghar</button>
+        <button class="dropbtn">School</button>
         <div class="dropdown-content">
             <a href="SgReg.jsp">Add</a>
 
@@ -108,7 +108,7 @@
     </div>
 
     <div class="dropdown">
-        <button class="dropbtn">SK/SR/Pathi</button>
+        <button class="dropbtn">Teacher</button>
         <div class="dropdown-content">
             <a href="Preacher.jsp">Add</a>
 
@@ -126,7 +126,7 @@
 
 
     <div class="dropdown">
-        <button class="dropbtn">Sewa Allocation</button>
+        <button class="dropbtn">Duties Allocation</button>
         <div class="dropdown-content">
             <a href="AllocationForm.jsp">Contributor Allocation</a>
             <a href="AllocationFormCD.jsp">CD Allocation</a>
@@ -134,7 +134,10 @@
     </div>
 
 
-    <a href="Attendance.jsp">Un-Availability</a>
+    <a href="AllocationForm.jsp">Un-Availability</a>
+
+
+
 
     <div class="dropdown">
         <button class="dropbtn">Reports</button>
@@ -143,7 +146,8 @@
             <a href="ReportSelectPreacher.jsp">Sewadar Allocation</a>
         </div>
     </div>
-         <a href="Attendance1.jsp">Attendance</a>
+
+	<a href="Attendance1.jsp">Attendance</a>
     <a href="Login.jsp?Action=Logout">Logout</a>
 
 </div>

@@ -70,7 +70,7 @@
         <td>
             <div class="menu">
                 <ul>
-                    <li><a onclick="loadUrl('Register3.jsp')" name="SG" value="SG" >Registeration </a></li>
+                    <li><a onclick="loadUrl('Register3.jsp')" name="SG" value="SG" >Registration </a></li>
                     <li><a onclick="loadUrl('Preacher.jsp' )" name="PR" value="PR">Preacher</a></li>
                     <li><a onclick="loadUrl('AllocationForm.jsp')" name="AL" value="AL">Allocation</a></li>
 
